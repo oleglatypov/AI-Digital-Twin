@@ -1,0 +1,21 @@
+{
+  "full_name": "Oleg Latypov",
+  "name": "oleglatypov",
+  "current_role": "Manageer of Software Engineering",
+  "location": "West New York, NJ, USA",
+  "email": "ovlatypov@gmail.com",
+  "linkedin": "linkedin.com/in/oleglatypov",
+  "specialties": [
+    "Frontend Development",
+    "Backend Development",
+    "AI Opps"
+  ],
+  "years_experience": 14,
+  "education": [
+    {
+      "degree": "Engineering Degree",
+      "institution": "Kalinin State Technical University",
+      "year": "2006"
+    }
+  ]
+}
